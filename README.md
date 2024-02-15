@@ -8,7 +8,7 @@
 
 ***
 
-## Key Vocab
+## Key Vocabulary
 
 - **Deployment**: the processes that make an application available for its
   intended use. For web applications, this means moving the application to a
